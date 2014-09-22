@@ -48,14 +48,14 @@ formatter.match({
   "location": "smoketest.Admin_is_in_login_page()"
 });
 formatter.result({
-  "duration": 104381850,
+  "duration": 159797961,
   "status": "passed"
 });
 formatter.match({
   "location": "smoketest.Admin_enters_testlabadmin_as_username()"
 });
 formatter.result({
-  "duration": 67563,
+  "duration": 72304,
   "status": "passed"
 });
 formatter.match({
@@ -68,28 +68,28 @@ formatter.match({
   "location": "smoketest.Admin_enters_Admin_as_password(int)"
 });
 formatter.result({
-  "duration": 2815504,
+  "duration": 2906365,
   "status": "passed"
 });
 formatter.match({
   "location": "smoketest.Admin_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 60451,
+  "duration": 79415,
   "status": "passed"
 });
 formatter.match({
   "location": "smoketest.Admin_should_login_successfully()"
 });
 formatter.result({
-  "duration": 63216,
+  "duration": 68748,
   "status": "passed"
 });
 formatter.match({
   "location": "smoketest.Admin_should_see_Welcome_Admin_text_message_dashboard()"
 });
 formatter.result({
-  "duration": 65982,
+  "duration": 75860,
   "status": "passed"
 });
 });
