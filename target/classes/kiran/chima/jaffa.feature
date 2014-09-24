@@ -5,6 +5,7 @@
  So that I can see the dashboard
 
 
+@Wip
 
 Scenario: Admin can login and see welcome message.-Happy path
  

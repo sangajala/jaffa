@@ -8,7 +8,7 @@ import cucumber.junit.Cucumber;
 
 	@RunWith(Cucumber.class) 
     @Cucumber.Options( format = {"pretty","html:target/cucumber","json:target/cucumber.json"},
-    features="src/test/resources")	
+    tags={"@Wip"})
 	
 	        	
 	
